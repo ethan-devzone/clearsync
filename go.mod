@@ -3,15 +3,15 @@ module github.com/layer-3/clearsync
 go 1.21.3
 
 require (
-	github.com/adshao/go-binance/v2 v2.5.0
+	github.com/adshao/go-binance/v2 v2.8.7
 	github.com/ethereum/go-ethereum v1.13.11
 	github.com/gin-gonic/gin v1.8.1
 	github.com/google/uuid v1.6.0
-	github.com/gorilla/websocket v1.5.0
+	github.com/gorilla/websocket v1.5.3
 	github.com/ipfs/go-log/v2 v2.5.1
 	github.com/layer-3/go-merkletree v0.2.3
 	github.com/prometheus/client_golang v1.14.0
-	github.com/shopspring/decimal v1.3.1
+	github.com/shopspring/decimal v1.4.0
 	github.com/stretchr/testify v1.8.4
 	github.com/testcontainers/testcontainers-go v0.28.0
 	google.golang.org/grpc v1.59.0
@@ -51,6 +51,7 @@ require (
 	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/joho/godotenv v1.5.1 // indirect
+	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/klauspost/compress v1.16.7 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
